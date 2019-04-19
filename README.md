@@ -1,3 +1,8 @@
+## How to run ?
+
+1. Clone this repo and install the requirements.txt file
+2. Run the python script - `python run1.py`  
+
 ## Intro
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
