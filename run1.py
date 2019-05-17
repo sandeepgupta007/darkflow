@@ -16,6 +16,7 @@ from bs4 import BeautifulSoup as bs
 import tkinter.scrolledtext as ScrolledText
 from tkinter.ttk import Progressbar
 import requests
+import speech_recognition as sr
 
 #Set up GUI
 window = tk.Tk()  #Makes main window

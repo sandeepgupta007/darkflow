@@ -1,7 +1,16 @@
+## Real Time object detection and multimodal search
+
+Wrote a complete research paper how we can extend real time object detection algorithm YOLO to build a multimodal search engine.
+
+Here's the link to research paper :  https://www.slideshare.net/secret/KTSuPzAOqfAgeK  
+
 ## How to run ?
 
 1. Clone this repo and install the requirements.txt file
 2. Run the python script - `python run1.py`  
+
+
+<hr/>
 
 ## Intro
 
